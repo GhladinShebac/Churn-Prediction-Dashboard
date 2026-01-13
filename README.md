@@ -46,7 +46,9 @@ Standard Nurture: Automated newsletter updates for low-risk active customers.
 
 💻 How to Run Locally
 Clone the repository:
+
 git clone https://github.com/GhladinShebac/Customer-Churn-Predictor.git
+
 cd Customer-Churn-Predictor
 
 Install dependencies:
