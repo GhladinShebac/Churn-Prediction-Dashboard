@@ -1,4 +1,5 @@
 📊 Customer Churn Prediction & Retention Recommender
+
 An end-to-end Machine Learning solution designed to identify high-risk customers and provide automated, data-driven retention strategies to maximize Customer Lifetime Value (CLV).
 
 🚀 Project Overview
@@ -45,22 +46,16 @@ Standard Nurture: Automated newsletter updates for low-risk active customers.
 
 💻 How to Run Locally
 Clone the repository:
-
-Bash
-
 git clone https://github.com/GhladinShebac/Customer-Churn-Predictor.git
 cd Customer-Churn-Predictor
+
 Install dependencies:
-
-Bash
-
 pip install -r requirements.txt
+
 Launch the Dashboard:
-
-Bash
-
 streamlit run app.py
-📊 Deployment
+
+📊 Deployment: 
 This project is live! You can interact with the dashboard here: https://gs-churn-dashboard.streamlit.app/
 
 Author: S R Ghladin Shebac Portfolio: https://www.linkedin.com/in/ghladin-shebac/
